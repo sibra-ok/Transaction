@@ -1,0 +1,21 @@
+.all{display: flex;flex-direction: column;align-content: center;text-align: center;justify-content: center;background-color: black;}
+.same{color: white;font-style: normal;font-weight: 500;letter-spacing: 1px;}
+hr{border: none;border-top: 1px solid white;}
+.tra{align-self:normal;}
+#information{height:max-content;background-color: black;}
+#bottom{display: flex;flex-direction: column;text-align: center;align-items: center;}
+.flex{display: flex;}
+.click{display: flex;}
+#Earning{background-color:#aaa;padding: 10px;width: 140px;border: none;}
+#Expense{background-color: red;width: 140px;border: none;}
+.hide{content-visibility: hidden;}
+.show{display: none;}
+.textCreate{
+display: flex;
+align-self: self-end;
+text-align: right;
+margin-right: 0px;
+}
+.fa-trash{
+size: 1px;
+}
